@@ -29,6 +29,7 @@ Werkzeug = "==1.0.1"
 WTForms = "==2.3.3"
 email-validator = "*"
 gunicorn = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.8"
